@@ -86,10 +86,10 @@ body {
 }
 
 .loaded .gallery {
-  opacity: 1;
+  opacity: 0;
 }
 .loaded .header span {
-  display: none;
+  visibility: hidden;
 }
 
 @media (prefers-color-scheme: dark) {

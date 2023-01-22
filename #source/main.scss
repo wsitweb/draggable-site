@@ -72,11 +72,11 @@ body{
 }
 .loaded{
     .gallery{
-        opacity: 1;
+        opacity: 0;
     }
     .header{
         span{
-            display: none;
+            visibility: hidden;
         }
     }
 }
